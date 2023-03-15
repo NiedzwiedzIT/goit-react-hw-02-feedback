@@ -6,6 +6,6 @@ export const SectionArea = styled.section`
 
 export const SectionTitle = styled.h2`
   font-size: 32px;
-  letter-spacing: 1.75;
-  margin-bottom: 16px;
+  letter-spacing: 1.85;
+  margin-bottom: 17px;
 `;
